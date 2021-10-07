@@ -2,7 +2,8 @@ Pyrogram
 TgCrypto
 ffmpeg-python
 psutil
-pytgcalls[pyrogram]
+pytgcalls
+pyrogram
 wheel
 python-arq
 aiohttp==3.7.4
