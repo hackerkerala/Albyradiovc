@@ -25,7 +25,7 @@ async def main():
         await mp.start_radio()
 def stop_and_restart():
     bot.stop()
-    os.system("git pull && pip3 install -U pytgcalls[pyrogram]")
+    os.system("git pull && pip3 install -U pytgcalls")
     sleep(10)
     os.execl(sys.executable, sys.executable, *sys.argv)
 
