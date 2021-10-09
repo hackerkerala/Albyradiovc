@@ -10,5 +10,6 @@ youtube_dl
 ffmpeg-python
 python-dotenv
 youtube_search
+py-tgcalls==0.8.1b25
 pytgcalls[pyrogram]
 youtube_search_python
